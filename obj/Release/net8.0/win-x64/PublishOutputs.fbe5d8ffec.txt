@@ -1,0 +1,4 @@
+C:\INNOVAT\DESARROLLO\dist\api\appsettings.Development.json
+C:\INNOVAT\DESARROLLO\dist\api\appsettings.json
+C:\INNOVAT\DESARROLLO\dist\api\GaiaPrintAPI.pdb
+C:\INNOVAT\DESARROLLO\dist\api\GaiaPrintAPI.exe

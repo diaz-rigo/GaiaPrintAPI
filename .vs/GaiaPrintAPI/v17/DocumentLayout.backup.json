@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\controllers\\printcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:controllers\\printcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\helpers\\rawprinterhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:helpers\\rawprinterhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\models\\printrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:models\\printrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\gaiaprintapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:gaiaprintapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\gaiaprintapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:gaiaprintapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\gaiaprintapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:gaiaprintapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|c:\\innovat\\desarrollo\\gaiaprintapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95921A10-EA04-4EAC-91CE-DEEDE8CF8CD4}|GaiaPrintAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GaiaPrintAPI",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\GaiaPrintAPI.csproj",
+              "RelativeDocumentMoniker": "GaiaPrintAPI.csproj",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\GaiaPrintAPI.csproj",
+              "RelativeToolTip": "GaiaPrintAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T22:20:27.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GaiaPrintAPI.http",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\GaiaPrintAPI.http",
+              "RelativeDocumentMoniker": "GaiaPrintAPI.http",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\GaiaPrintAPI.http",
+              "RelativeToolTip": "GaiaPrintAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-01T22:17:50.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:17:46.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:17:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RawPrinterHelper.cs",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Helpers\\RawPrinterHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\RawPrinterHelper.cs",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Helpers\\RawPrinterHelper.cs",
+              "RelativeToolTip": "Helpers\\RawPrinterHelper.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAwwAUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:08:32.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GaiaPrintAPI.csproj",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\GaiaPrintAPI.csproj",
+              "RelativeDocumentMoniker": "GaiaPrintAPI.csproj",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\GaiaPrintAPI.csproj",
+              "RelativeToolTip": "GaiaPrintAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T22:08:00.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintController.cs",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Controllers\\PrintController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrintController.cs",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Controllers\\PrintController.cs",
+              "RelativeToolTip": "Controllers\\PrintController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:04:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintRequest.cs",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Models\\PrintRequest.cs",
+              "RelativeDocumentMoniker": "Models\\PrintRequest.cs",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Models\\PrintRequest.cs",
+              "RelativeToolTip": "Models\\PrintRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:03:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\INNOVAT\\DESARROLLO\\GaiaPrintAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:00:07.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

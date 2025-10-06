@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "GaiaPrintAPI.Controllers.PrintController",
+    "Method": "GetAvailablePrinters",
+    "RelativePath": "api/Print/printers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaiaPrintAPI.Controllers.PrintController",
+    "Method": "PrintRawBytes",
+    "RelativePath": "api/Print/raw-bytes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GaiaPrintAPI.Models.PrintRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaiaPrintAPI.Controllers.PrintController",
+    "Method": "PrintReceipt",
+    "RelativePath": "api/Print/receipt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GaiaPrintAPI.Models.PrintRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaiaPrintAPI.Controllers.PrintController",
+    "Method": "Test",
+    "RelativePath": "api/Print/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaiaPrintAPI.Controllers.PrintController",
+    "Method": "TestPrint",
+    "RelativePath": "api/Print/test-print",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GaiaPrintAPI.Models.PrintRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaiaPrintAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GaiaPrintAPI.WeatherForecast, GaiaPrintAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

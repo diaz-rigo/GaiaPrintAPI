@@ -1,0 +1,6 @@
+@GaiaPrintAPI_HostAddress = http://localhost:5109
+
+GET {{GaiaPrintAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
