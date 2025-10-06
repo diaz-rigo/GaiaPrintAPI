@@ -1,22 +1,21 @@
-# Stage 1: build
+# Dockerfile (colocar en la raíz del repo, donde está la .sln)
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-# copia csproj y restaura para aprovechar cache
-COPY *.sln .
-COPY GaiaPrintAPI/*.csproj ./GaiaPrintAPI/
-RUN dotnet restore
+# Copiamos la solución y proyecto explícitamente (JSON form avoids shell expansion)
+COPY ["GaiaPrintAPI.sln", "./"]
+COPY ["GaiaPrintAPI/GaiaPrintAPI.csproj", "GaiaPrintAPI/"]
 
-# copia todo y publica
+RUN dotnet restore "GaiaPrintAPI/GaiaPrintAPI.csproj"
+
+# Copiamos todo y publicamos
 COPY . .
 WORKDIR /src/GaiaPrintAPI
 RUN dotnet publish -c Release -o /app/publish /p:UseAppHost=false
 
-# Stage 2: runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 WORKDIR /app
 EXPOSE 8080
 COPY --from=build /app/publish .
 ENV ASPNETCORE_ENVIRONMENT=Production
-# Ejecutar en el puerto que asigna la plataforma (lo manejamos en Program.cs)
 ENTRYPOINT ["dotnet", "GaiaPrintAPI.dll"]
