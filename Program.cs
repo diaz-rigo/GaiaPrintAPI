@@ -39,10 +39,10 @@ builder.Services.AddLogging(logging =>
     // EventLog solo en Windows/server con permisos
     try
     {
-        logging.AddEventLog(settings =>
-        {
-            settings.SourceName = "GaiaPrintAPI";
-        });
+        // logging.AddEventLog(settings =>
+        // {
+        //     settings.SourceName = "GaiaPrintAPI";
+        // });
     }
     catch
     {
